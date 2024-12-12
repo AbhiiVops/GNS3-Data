@@ -1,0 +1,1446 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-648-214
+INFO:werkzeug: * Detected change in 'C:\\Users\\Abhishek\\Desktop\\gns3_frontend_integration\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 14:56:13] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 14:56:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-648-214
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:05:09] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:05:32] "[31m[1mGET /add_device HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:11:57] "[33mGET /topology-data HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:11:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.13:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-648-214
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-648-214
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:26:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:26:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:27:36] "[31m[1mGET /add_device HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:27:43] "[31m[1mGET /add_device HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:27:53] "OPTIONS /add_device HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:27:58] "OPTIONS /remove_device HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:28:00] "OPTIONS /remove_device HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:28:05] "OPTIONS /add_device HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-648-214
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:33:48] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:33:57] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-648-214
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:36:36] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-648-214
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:41:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:42:11] "[31m[1mGET /add_device HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:42:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:42:53] "OPTIONS /add_device HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:43:04] "OPTIONS /add_device HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:44:00] "OPTIONS /add_device HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:45:08] "[33mGET /add-device HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Abhishek\\Desktop\\gns3_frontend_integration\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-648-214
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:47:58] "[33mGET /add-device HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:48:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:48:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:49:55] "OPTIONS /remove_device HTTP/1.1" 200 -
+ERROR:root:Error removing node: Failed to remove node: {
+    "message": "Node ID None doesn't exist",
+    "status": 404
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:49:55] "[35m[1mPOST /remove_device HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:49:57] "OPTIONS /add_device HTTP/1.1" 200 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5000,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R1",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R1",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\f569ac09-8faa-4820-8afb-dbddfa36f986",
+    "node_id": "f569ac09-8faa-4820-8afb-dbddfa36f986",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 1,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca01.8268.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:49:57] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5003,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R4",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R4",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\a24c5bcc-d970-46f2-abe4-72ee97fead75",
+    "node_id": "a24c5bcc-d970-46f2-abe4-72ee97fead75",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 4,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca04.7c4c.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:00] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:00] "OPTIONS /add_device HTTP/1.1" 200 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5004,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R5",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R5",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\d77e2cae-4a5e-46f3-a540-b152bbbca54f",
+    "node_id": "d77e2cae-4a5e-46f3-a540-b152bbbca54f",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 5,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca05.741c.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:01] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5005,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R6",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R6",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\623e38a6-302c-45fb-819a-121e540759df",
+    "node_id": "623e38a6-302c-45fb-819a-121e540759df",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 6,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca06.837c.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:02] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5006,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R7",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R7",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\2abddef6-e9e2-4895-88ae-02dbf2f0671e",
+    "node_id": "2abddef6-e9e2-4895-88ae-02dbf2f0671e",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 7,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca07.5f40.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:02] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5007,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R8",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R8",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\046e773f-9ffd-4095-9748-450df8764a40",
+    "node_id": "046e773f-9ffd-4095-9748-450df8764a40",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 8,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca08.8e1c.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:03] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:04] "OPTIONS /remove_device HTTP/1.1" 200 -
+ERROR:root:Error removing node: Failed to remove node: {
+    "message": "Node ID None doesn't exist",
+    "status": 404
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:04] "[35m[1mPOST /remove_device HTTP/1.1[0m" 500 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5008,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R9",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R9",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\14062e2a-9613-4fe7-855e-6077d9fd629f",
+    "node_id": "14062e2a-9613-4fe7-855e-6077d9fd629f",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 9,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca09.8420.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:06] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:19] "OPTIONS /add_device HTTP/1.1" 200 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5009,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R10",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R10",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\95eed290-4881-4a54-9016-9b87afe671c8",
+    "node_id": "95eed290-4881-4a54-9016-9b87afe671c8",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 10,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca0a.0628.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:20] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5010,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R11",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R11",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\8cbbe4e2-0e8e-440d-ab8e-f7675507a6ea",
+    "node_id": "8cbbe4e2-0e8e-440d-ab8e-f7675507a6ea",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 11,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca0b.61b8.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:23] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:25] "OPTIONS /remove_device HTTP/1.1" 200 -
+ERROR:root:Error removing node: Failed to remove node: {
+    "message": "Node ID None doesn't exist",
+    "status": 404
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:25] "[35m[1mPOST /remove_device HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:26] "OPTIONS /add_device HTTP/1.1" 200 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5011,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R12",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R12",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\721e51ba-5edb-4410-8735-a0494e309f42",
+    "node_id": "721e51ba-5edb-4410-8735-a0494e309f42",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 12,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca0c.57f0.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:50:26] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:51:21] "OPTIONS /remove_device HTTP/1.1" 200 -
+ERROR:root:Error removing node: Failed to remove node: {
+    "message": "Node ID None doesn't exist",
+    "status": 404
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:51:21] "[35m[1mPOST /remove_device HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:51:21] "OPTIONS /add_device HTTP/1.1" 200 -
+ERROR:root:Error adding node: Failed to create node: {
+    "command_line": null,
+    "compute_id": "local",
+    "console": 5012,
+    "console_auto_start": false,
+    "console_host": "localhost",
+    "console_type": "telnet",
+    "custom_adapters": [],
+    "first_port_name": null,
+    "height": 45,
+    "label": {
+        "rotation": 0,
+        "style": null,
+        "text": "R13",
+        "x": null,
+        "y": -32
+    },
+    "locked": false,
+    "name": "R13",
+    "node_directory": "C:\\Users\\Abhishek\\GNS3\\projects\\SANTA\\project-files\\dynamips\\356fea9c-b7ca-42c8-80a9-2aa8ae284eb5",
+    "node_id": "356fea9c-b7ca-42c8-80a9-2aa8ae284eb5",
+    "node_type": "dynamips",
+    "port_name_format": "Ethernet{0}",
+    "port_segment_size": 0,
+    "ports": [
+        {
+            "adapter_number": 0,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "FastEthernet0/0",
+            "port_number": 0,
+            "short_name": "f0/0"
+        },
+        {
+            "adapter_number": 1,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet1/0",
+            "port_number": 0,
+            "short_name": "g1/0"
+        },
+        {
+            "adapter_number": 2,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet2/0",
+            "port_number": 0,
+            "short_name": "g2/0"
+        },
+        {
+            "adapter_number": 3,
+            "data_link_types": {
+                "Ethernet": "DLT_EN10MB"
+            },
+            "link_type": "ethernet",
+            "name": "GigabitEthernet3/0",
+            "port_number": 0,
+            "short_name": "g3/0"
+        }
+    ],
+    "project_id": "f86dd854-7aef-470f-97cd-0ab87207ddd4",
+    "properties": {
+        "auto_delete_disks": false,
+        "aux": null,
+        "clock_divisor": 4,
+        "disk0": 64,
+        "disk1": 0,
+        "dynamips_id": 13,
+        "exec_area": 16,
+        "idlemax": 500,
+        "idlepc": "0x606e0538",
+        "idlesleep": 30,
+        "image": "c7200-adventerprisek9-mz.153-3.XB12.image",
+        "image_md5sum": "3d234a3793331c972776354531f87221",
+        "mac_addr": "ca0d.7f88.0000",
+        "midplane": "vxr",
+        "mmap": true,
+        "npe": "npe-400",
+        "nvram": 512,
+        "platform": "c7200",
+        "power_supplies": [
+            1,
+            1
+        ],
+        "ram": 512,
+        "sensors": [
+            22,
+            22,
+            22,
+            22
+        ],
+        "slot0": "C7200-IO-FE",
+        "slot1": "PA-GE",
+        "slot2": "PA-GE",
+        "slot3": "PA-GE",
+        "slot4": null,
+        "slot5": null,
+        "slot6": null,
+        "sparsemem": true,
+        "system_id": "FTX0945W0MY",
+        "usage": ""
+    },
+    "status": "stopped",
+    "symbol": ":/symbols/router.svg",
+    "template_id": null,
+    "width": 66,
+    "x": 400,
+    "y": 400,
+    "z": 1
+}
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2024 15:51:22] "[35m[1mPOST /add_device HTTP/1.1[0m" 500 -
